@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Cgpt
 // Superclass
 abstract class Stand {
     abstract boolean expose(String name);
