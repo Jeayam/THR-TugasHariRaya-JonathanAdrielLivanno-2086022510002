@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Chatgpt
 public class Question1 {
     public static void main(String[] args) {
         String input = "holly may interesting MARCH corey November junior january paul december";
