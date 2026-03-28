@@ -1,4 +1,4 @@
-//chatgpt
+//chatgpt & gemnini
 
 class Food {
     protected String name;
